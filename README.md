@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 <h3 align="center">I'm a Web Design Student at Haute Ecole Albert Jacquard in Namur, Belgium</h3>
 
-- 🔭 I’m currently working on **Project Janus**
+- 🔭 I’m currently working on **Project Dataplay**
 
 - 🌱 I’m currently learning **JavaScript, HTML, (S)CSS, PHP, Vue.js**
 
