@@ -48,12 +48,14 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ben1i/ben1i/output/snake.svg" alt="Snake animation" />
+<p align="left">Hello World!!</p>
 
 ###
 
-<p align="left">Hello World!!</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ben1i/ben1i/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ben1i/ben1i/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ben1i/ben1i/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
